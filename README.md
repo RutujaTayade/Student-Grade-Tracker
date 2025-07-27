@@ -1,8 +1,8 @@
 # Student Grade Tracker 📘
 
 
-🖼️ Image Gallery
-✅ Internship Task – Frontend Development
+📘 Student Grade Tracker
+✅ Internship Task – Java Programming
 🏢 Company: CodeAlpha
 
 📄 Project Title: Image Gallery
@@ -28,9 +28,7 @@ A responsive and modern Java Swing application for tracking and analyzing studen
 
 🔗 Project Demo
 
-🌍 Live Site: [https://rutujatayade.github.io/Image-Gallery/]
-
-📂 GitHub Repo: [https://github.com/RutujaTayade/Image-Gallery]
+📂 GitHub Repo: [https://github.com/RutujaTayade/Student-Grade-Tracker]
 
 🖇 LinkedIn: [https://www.linkedin.com/in/rutuja-tayade-15a680357/]
 
